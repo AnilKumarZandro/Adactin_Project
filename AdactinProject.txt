@@ -1,0 +1,1 @@
+To check the Adactin web application from log in to log out fuctions working as expected. 
